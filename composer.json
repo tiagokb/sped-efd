@@ -8,50 +8,21 @@
         "sped",
         "nfephp"
     ],
-    "homepage": "https://github.com/nfephp-org/sped-efd",
+    "homepage": "https://github.com/tiagokb/sped-efd",
     "license": [
         "GPL-3.0+",
         "LGPL-3.0+"
     ],
     "authors": [
         {
-            "name": "Roberto L. Machado",
-            "email": "linux.rlm@gmail.com.br",
-            "homepage": "https://github.com/nfephp-org",
-            "role": "owner"
-        },
-        {
-            "name": "Eduardo Correia",
-            "email": "eduardo.correa@duobox.com.br",
-            "homepage": "https://www.duobox.com.br/novo",
-            "role": "developer"
-        },
-        {
-            "name": "Rauye Rogiski",
-            "email": "rauye.rogiski@duobox.com.br",
-            "homepage": "https://www.duobox.com.br/novo",
-            "role": "developer"
-        },
-        {
-            "name": "Guilherme Calabria Filho",
-            "email": "suporte@plotag.com.br",
-            "homepage": "https://www.plotag.com.br",
-            "role": "developer"
-        },
-        {
-            "name": "Gustavo Lidani",
-            "email": "lidanig0@gmail.com",
-            "homepage": "https://github.com/lidani",
-            "role": "developer"
-        },
-        {
-            "name": "Comunidade NFePHP",
-            "homepage": "https://github.com/nfephp-org/sped-efd/graphs/contributors"
+            "name": "Tiago Kontarski Barbosa",
+            "email": "tiagokontarski@gmail.com",
+            "homepage": "https://github.com/tiagokb"
         }
     ],
     "require": {
         "php": ">=7",
-        "nfephp-org/sped-common": "^5.1.0",
+        "nfephp-org/sped-common": "^5.0.57",
         "thecodingmachine/safe": "^1.3.3"
     },
     "require-dev": {
