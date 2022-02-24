@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-efd",
+    "name": "nfephp-org/sped-efd/tiago-kontarski",
     "type": "library",
     "version": "2.0.1",
     "description": "API para geração dos arquivos para SPED EFD",
@@ -50,7 +50,6 @@
         }
     ],
     "require": {
-        "php": ">= 7.4",
         "nfephp-org/sped-common": "^5.1.0",
         "thecodingmachine/safe": "^1.3.3"
     },
