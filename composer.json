@@ -50,7 +50,7 @@
         }
     ],
     "require": {
-        "php": "^7.0.*",
+        "php": ">=7",
         "nfephp-org/sped-common": "^5.1.0",
         "thecodingmachine/safe": "^1.3.3"
     },
