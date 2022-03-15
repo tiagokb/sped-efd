@@ -1,7 +1,6 @@
 {
     "name": "tiagokb/sped-efd",
     "type": "library",
-    "version": "1.0.1",
     "description": "API para geração dos arquivos para SPED EFD",
     "keywords": [
         "efd",
@@ -10,8 +9,8 @@
     ],
     "homepage": "https://github.com/tiagokb/sped-efd",
     "license": [
-        "GPL-3.0+",
-        "LGPL-3.0+"
+        "GPL-3.0-or-later",
+        "LGPL-3.0-or-later"
     ],
     "authors": [
         {
