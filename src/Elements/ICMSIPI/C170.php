@@ -46,7 +46,7 @@ class C170 extends Element implements ElementInterface
             'regex' => '^\d+(\.\d*)?|\.\d+$',
             'required' => true,
             'info' => 'Quantidade do item',
-            'format' => '15v5'
+            'format' => ''
         ],
         'UNID' => [
             'type' => 'string',
