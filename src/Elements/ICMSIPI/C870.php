@@ -20,7 +20,7 @@ class C870 extends Element implements ElementInterface
     protected $parameters = [
         'COD_ITEM' => [
             'type'     => 'string',
-            'regex'    => '^[0-9]{60}$',
+            'regex'    => '^[0-9]{1,60}$',
             'required' => true,
             'info'     => 'Código do item (campo 02 do Registro 0200)',
             'format'   => ''
@@ -34,7 +34,7 @@ class C870 extends Element implements ElementInterface
         ],
         'UNID' => [
             'type'     => 'string',
-            'regex'    => '^[0-9]{6}$',
+            'regex'    => '^[0-9]{1,6}$',
             'required' => true,
             'info'     => 'Unidade do item (Campo 02 do registro 0190)',
             'format'   => ''
