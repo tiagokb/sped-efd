@@ -39,7 +39,7 @@ class Z0100 extends Element implements ElementInterface
         ],
         'CRC' => [
             'type'     => 'string',
-            'regex'    => '^.{6,15}$',
+            'regex'    => '^.{3,15}$',
             'required' => true,
             'info'     => 'Número   de   inscrição   do   contabilista   no   Conselho Regional de Contabilidade',
             'format'   => ''
